@@ -16,7 +16,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [X]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
 - [X]  Project: Portfolio from the frontend section of FCC  
 - [X]  Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects 
-- [ ]  Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) 
+- [X]  Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) 
 - [ ]  Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)    
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)  
 - [ ]  Course: [Getting Sassy with Sass](http://www.sassshop.com/#/)
