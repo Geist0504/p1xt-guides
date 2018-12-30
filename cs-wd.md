@@ -29,13 +29,13 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [x] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [x] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 * [x] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
-* [ ] Course: [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+* [x] Course: [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 * [ ] Course: [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
 * [x] Book: [DOM Enlightenment](http://domenlightenment.com/)
 * [x] Project: Simon Game from the frontend section of FCC
 * [ ] Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript
 * [x] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
-* [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
+* [x] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 * [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 * [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
